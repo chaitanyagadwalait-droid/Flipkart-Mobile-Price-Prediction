@@ -42,7 +42,6 @@ Features include:
 * Storage
 * Rating
 * Original Price
-* Selling Price
 
 ---
 
